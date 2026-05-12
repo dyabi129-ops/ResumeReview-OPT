@@ -9,9 +9,7 @@ from utils.feedback_loop import run_feedback_loop
 from utils.pdf_reader import extract_text_from_pdf
 from utils.pdf_exporter import export_resume_as_pdf
 
-# ── PUT YOUR GROQ API KEY HERE ONCE ──────────────────────────────────────────
-# Anyone who uses this app will use this key automatically.
-# Get a free key at https://console.groq.com
+
 GROQ_API_KEY = "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"
 # ─────────────────────────────────────────────────────────────────────────────
 
